@@ -1,5 +1,8 @@
 # A Comparative Study of Chinese-to-English Machine Translation Quality Based on Multi-Dimensional Human Evaluation
 
+## 🎯 Project Summary
+A human-evaluated benchmark comparing translation performance of major LLMs across multiple text types.
+
 > Taking DeepL, ChatGPT (GPT-4o), Google Gemini, and Claude as Examples
 
 ---
